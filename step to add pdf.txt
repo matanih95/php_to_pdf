@@ -1,0 +1,15 @@
+1. Reference link: 
+https://www.youtube.com/watch?v=MnIps8Yc8CY
+
+2. Download and install composer
+https://getcomposer.org/download/
+
+refer:
+https://github.com/mpdf/mpdf
+
+3. Open terminal/cmd ..
+ 
+ run command bellow :
+ (i)composer
+ (ii)cd xampp/htdocs/petronas_proj
+ (iii)composer require mpdf/mpdf
